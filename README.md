@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-As my very first website, I made this study guide for the material I learned in the prework of the Columbia University
+As my very first website, I made this study guide for the material I learned in the prework for the Columbia University
 Full-Stack coding bootcamp. This website allows me to keep together all the notes I took for this first module and 
 can hopefully be helpful as I continue on in this course. I learned skills in HTML, CSS, and Javascript, including 
 how to set up a website and how to link Javascript and CSS files to an HTML.
