@@ -1,6 +1,8 @@
-# Prework Study Guide Webpage
+# Prework Study Guide Website
 
 ## Description
+
+Visit this site at https://gcbel.github.io/prework-guide/.
 
 As my very first website, I made this study guide for the material I learned in the prework for the Columbia University
 Full-Stack coding bootcamp. This website allows me to keep together all the notes I took for this first module and 
